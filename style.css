@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+
+}
+
+h2 {
+    color: #ffd700;
+}
+
+h3 {
+    color: rgb(77,166,255);
+}
+
+h4 {
+    color: hsl(50 80% 40%);
+}
+
+.headings {
+    background-color: purple;
+}
